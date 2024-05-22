@@ -1,1 +1,22 @@
-# rec
+mindmap
+  root((Energia para Bases Lunares))
+    Ambiente_Lunar
+      Ciclo_de_Iluminação
+      Temperaturas_Extremas
+      Poeira_Lunar
+    Fontes_de_Energia
+      Energia_Solar
+      Geradores_a_Diesel
+      RTGs
+      Microrreatores_Nucleares
+    Tecnologias_de_Microrreatores
+      Design_e_Robustez
+      Autonomia_e_Confiabilidade
+      Segurança
+    Colaboração_Internacional
+      Acordos_Artemis
+      Projetos_Russo-Chineses
+    Desafios_de_Implementação
+      Desenvolvimento_Tecnológico
+      Logística_de_Transporte
+      Custo_e_Financiamento
